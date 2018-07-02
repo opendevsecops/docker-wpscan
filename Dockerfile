@@ -1,0 +1,1 @@
+FROM wpscanteam/wpscan:latest
